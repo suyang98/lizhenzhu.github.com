@@ -3,6 +3,13 @@
 You can use the [editor on GitHub](https://github.com/suyang98/lizhenzhu.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### SUMMARY
+
+> * a junior student of ACM Class, Zhiyuan College, Shanghai Jiao Tong University(SJTU)
+> * I have been doing research practice at Brain-like Computing & Machine intelligence Laboratory(BCMI) in SJTU since summer, 2018.  Currently, I am doing research on the data-augmentation about eeg for emotion classification.
+> * current research interests: machine learning, computer vision, emotion recognition
+> * I am taking computer vision course, and doing a project on a framework for background replacement and image editing in this course. I plan to take reinforcement learning course next semester.
+
 
 ### Markdown
 
