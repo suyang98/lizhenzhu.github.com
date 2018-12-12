@@ -1,9 +1,6 @@
 ## Lizhen Zhu
 #### e-mail:zhulz98@sjtu.edu.cn
 
-You can use the [editor on GitHub](https://github.com/suyang98/lizhenzhu.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### SUMMARY
 
 > * a junior student of ACM Class, Zhiyuan College, Shanghai Jiao Tong University(SJTU)
@@ -13,8 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### EDUCATION
 
-#### ACM Class, Zhiyuan College, Shanghai Jiao Tong University
-#### Computer Science
+**ACM Class, Zhiyuan College, Shanghai Jiao Tong University**
+**Computer Science**
 > * Honors: third prize in SJTU Scholarship(2016-2108), Zhiyuan Honor Scholarship（2016-2018）
 > * Relevant Coursework: Linear Algebra, Machine Learning, Mathematics for the Information Age
 > * GPA:3.54(25/38)
@@ -40,34 +37,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > * interests： Reading, Playing the piano (having the qualification for the grade nine in piano-playing) 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suyang98/lizhenzhu.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
