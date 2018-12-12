@@ -11,6 +11,7 @@
 ### EDUCATION
 
 **ACM Class, Zhiyuan College, Shanghai Jiao Tong University**
+
 **Computer Science**
 > * Honors: third prize in SJTU Scholarship(2016-2108), Zhiyuan Honor Scholarship（2016-2018）
 > * Relevant Coursework: Linear Algebra, Machine Learning, Mathematics for the Information Age
